@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App name -->
+    <string name="app_name">Quiz Game</string>
+
+    <!-- Login and Account -->
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="account">Don’t you have an account yet? <font color="#5b39c6"><b><u><i>Sign Up</i></u></b></font></string>
+    <string name="forgot_password"><u>I forgot my password</u></string>
+
+    <!-- Signup -->
+    <string name="signup">Sign Up</string>
+    <string name="already_account">Already have an account? <font color="#5b39c6"><b><u><i>Login</i></u></b></font></string>
+
+    <!-- Quiz -->
+    <string name="start_quiz">Start Quiz</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+
+    <!-- Result -->
+    <string name="correct_answer">Correct Answer:</string>
+    <string name="wrong_answer">Wrong Answer:</string>
+    <string name="play_again">Play Again</string>
+    <string name="exit">Exit</string>
+
+    <!-- Google Sign-In -->
+    <string name="sign_in_with_google">Sign in with Google</string>
+
+    <string name="default_web_client_id">your-client-id.apps.googleusercontent.com</string>
+
+</resources>
